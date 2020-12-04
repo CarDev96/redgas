@@ -19377,15 +19377,27 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
+/***/ "./resources/sass/one-page-scroll.scss":
+/*!*********************************************!*\
+  !*** ./resources/sass/one-page-scroll.scss ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!*****************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/landing.scss ***!
-  \*****************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/landing.scss ./resources/sass/one-page-scroll.scss ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! D:\laragon\www\redgas\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\laragon\www\redgas\resources\sass\landing.scss */"./resources/sass/landing.scss");
+__webpack_require__(/*! D:\laragon\www\redgas\resources\sass\landing.scss */"./resources/sass/landing.scss");
+module.exports = __webpack_require__(/*! D:\laragon\www\redgas\resources\sass\one-page-scroll.scss */"./resources/sass/one-page-scroll.scss");
 
 
 /***/ })

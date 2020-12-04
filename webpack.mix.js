@@ -14,4 +14,7 @@ require('mix-tailwindcss');
 
 mix.js('resources/js/app.js', 'public/js')
   .sass('resources/sass/landing.scss', 'public/css')
+  .sass('resources/sass/one-page-scroll.scss', 'public/css')
+  .js('resources/js/landing/scroll-reveal.js', 'public/js')
+  .js('resources/js/landing/one-page-scroll.js', 'public/js')
   .tailwind();

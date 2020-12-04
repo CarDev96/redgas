@@ -1,4 +1,7 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/landing.css": "/css/landing.css"
+    "/css/landing.css": "/css/landing.css",
+    "/css/one-page-scroll.css": "/css/one-page-scroll.css",
+    "/js/one-page-scroll.js": "/js/one-page-scroll.js",
+    "/js/scroll-reveal.js": "/js/scroll-reveal.js"
 }
